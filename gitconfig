@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mrasmus5@alumni.jh.edu
+	name = Martin Lynge Rasmussen
