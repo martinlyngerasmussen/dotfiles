@@ -71,3 +71,4 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 eval "$(direnv hook zsh)"
 eval "$(direnv hook zsh)"
+eval "$(direnv hook zsh)"
